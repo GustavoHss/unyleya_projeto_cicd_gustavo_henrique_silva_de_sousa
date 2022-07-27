@@ -27,7 +27,7 @@ steps:
 
 - task: CmdLine@2
   inputs:
-    script: 'mkdir d:\a\1\MobEAD' 
+    script: 'mkdir d:\a\1\unyleya_projeto_cicd_gustavo_henrique_silva_de_sousa' 
     #workingDirectory: # Optional
     #failOnStderr: false # Optional
 
